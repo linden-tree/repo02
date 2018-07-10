@@ -1,0 +1,161 @@
+{
+    "lastID": "25",
+    "tasks": [
+        {
+            "id": 0,
+            "name": "Úkol A",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU A..."
+        },
+        {
+            "id": 1,
+            "name": "Úkol B",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU B..."
+        },
+        {
+            "id": 2,
+            "name": "Úkol C",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU C..."
+        },
+        {
+            "id": 3,
+            "name": "Úkol D",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU D..."
+        },
+        {
+            "id": 4,
+            "name": "Úkol E",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU E..."
+        },
+        {
+            "id": 5,
+            "name": "Úkol F",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU F..."
+        },
+        {
+            "id": 6,
+            "name": "Úkol G",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU G..."
+        },
+        {
+            "id": 7,
+            "name": "Úkol H",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU H..."
+        },
+        {
+            "id": 8,
+            "name": "Úkol I",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU I..."
+        },
+        {
+            "id": 9,
+            "name": "Úkol J",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU J..."
+        },
+        {
+            "id": 10,
+            "name": "Úkol K",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU K..."
+        },
+        {
+            "id": 11,
+            "name": "Úkol L",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU L..."
+        },
+        {
+            "id": 12,
+            "name": "Úkol M",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU M..."
+        },
+        {
+            "id": 13,
+            "name": "Úkol N",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU N..."
+        },
+        {
+            "id": 14,
+            "name": "Úkol O",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU O..."
+        },
+        {
+            "id": 15,
+            "name": "Úkol P",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU P..."
+        },
+        {
+            "id": 16,
+            "name": "Úkol Q",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU Q..."
+        },
+        {
+            "id": 17,
+            "name": "Úkol R",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU R..."
+        },
+        {
+            "id": 18,
+            "name": "Úkol S",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU S..."
+        },
+        {
+            "id": 19,
+            "name": "Úkol T",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU T..."
+        },
+        {
+            "id": 20,
+            "name": "Úkol U",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU U..."
+        },
+        {
+            "id": 21,
+            "name": "Úkol V",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU V..."
+        },
+        {
+            "id": 22,
+            "name": "Úkol W",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU W..."
+        },
+        {
+            "id": 23,
+            "name": "Úkol X",
+            "completed": false, 
+            "description": "Nový popis ÚKOLU X..."
+        },
+        {
+            "id": 24,
+            "name": "Úkol Y",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU Y..."
+        },
+        {
+            "id": 25,
+            "name": "Úkol Z",
+            "completed": true, 
+            "description": "Nový popis ÚKOLU Z..."
+        }
+    ]
+}
